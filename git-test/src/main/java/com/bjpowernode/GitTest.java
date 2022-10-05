@@ -1,4 +1,4 @@
-package com.bjpwernode;
+package com.bjpowernode;
 
 public class GitTest {
     public static void main(String[] args) {
